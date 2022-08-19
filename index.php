@@ -2,7 +2,8 @@
 <head>
 </head>
 <body>
-<p>Hola Mundo</p>
+<p class: tex-center>Hola Mundo</p>
+<br></br>
 <h2>3.0</h2>
 </body>
 </html>
