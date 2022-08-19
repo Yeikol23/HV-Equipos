@@ -2,6 +2,6 @@
 <head>
 </head>
 <body>
-<?php echo '<p>Hola Mundo'</p>'; ?>
+<p>Hola Mundo</p>
 </body>
 </html>
